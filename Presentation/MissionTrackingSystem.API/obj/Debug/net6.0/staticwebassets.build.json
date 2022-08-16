@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AHyKx2xbxnGYFUcOaAT5YvkVwqA5I6B64DrOFy3w4Gw=",
+  "Source": "MissionTrackingSystem.API",
+  "BasePath": "_content/MissionTrackingSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

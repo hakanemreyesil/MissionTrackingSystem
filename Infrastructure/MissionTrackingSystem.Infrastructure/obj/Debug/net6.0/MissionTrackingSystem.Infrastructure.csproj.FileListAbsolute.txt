@@ -1,0 +1,17 @@
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Infrastructure.deps.json
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Infrastructure.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Infrastructure.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Application.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Domain.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Application.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\bin\Debug\net6.0\MissionTrackingSystem.Domain.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.csproj.CopyComplete
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\refint\MissionTrackingSystem.Infrastructure.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\MissionTrackingSystem.Infrastructure.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Infrastructure\MissionTrackingSystem.Infrastructure\obj\Debug\net6.0\ref\MissionTrackingSystem.Infrastructure.dll

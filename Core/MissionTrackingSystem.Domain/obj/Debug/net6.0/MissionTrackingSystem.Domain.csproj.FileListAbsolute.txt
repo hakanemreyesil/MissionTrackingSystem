@@ -1,0 +1,12 @@
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\bin\Debug\net6.0\MissionTrackingSystem.Domain.deps.json
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\bin\Debug\net6.0\MissionTrackingSystem.Domain.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\bin\Debug\net6.0\MissionTrackingSystem.Domain.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.AssemblyInfo.cs
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\refint\MissionTrackingSystem.Domain.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\MissionTrackingSystem.Domain.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Domain\obj\Debug\net6.0\ref\MissionTrackingSystem.Domain.dll

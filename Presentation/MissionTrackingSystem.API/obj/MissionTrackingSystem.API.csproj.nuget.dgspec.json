@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Presentation\\MissionTrackingSystem.API\\MissionTrackingSystem.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj",
+        "projectName": "MissionTrackingSystem.Application",
+        "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\hemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Domain\\MissionTrackingSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Domain\\MissionTrackingSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.1.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Domain\\MissionTrackingSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Domain\\MissionTrackingSystem.Domain.csproj",
+        "projectName": "MissionTrackingSystem.Domain",
+        "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Domain\\MissionTrackingSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\hemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Infrastructure\\MissionTrackingSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Infrastructure\\MissionTrackingSystem.Infrastructure.csproj",
+        "projectName": "MissionTrackingSystem.Infrastructure",
+        "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Infrastructure\\MissionTrackingSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\hemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Persistence\\MissionTrackingSystem.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Persistence\\MissionTrackingSystem.Persistence.csproj",
+        "projectName": "MissionTrackingSystem.Persistence",
+        "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Persistence\\MissionTrackingSystem.Persistence.csproj",
+        "packagesPath": "C:\\Users\\hemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Presentation\\MissionTrackingSystem.API\\MissionTrackingSystem.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Presentation\\MissionTrackingSystem.API\\MissionTrackingSystem.API.csproj",
+        "projectName": "MissionTrackingSystem.API",
+        "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Presentation\\MissionTrackingSystem.API\\MissionTrackingSystem.API.csproj",
+        "packagesPath": "C:\\Users\\hemre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Presentation\\MissionTrackingSystem.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Core\\MissionTrackingSystem.Application\\MissionTrackingSystem.Application.csproj"
+              },
+              "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Infrastructure\\MissionTrackingSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Infrastructure\\MissionTrackingSystem.Infrastructure.csproj"
+              },
+              "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Persistence\\MissionTrackingSystem.Persistence.csproj": {
+                "projectPath": "C:\\Users\\hemre\\Desktop\\MissionTrackingSystem\\MissionTrackingSystem\\Infrastructure\\MissionTrackingSystem.Persistence\\MissionTrackingSystem.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

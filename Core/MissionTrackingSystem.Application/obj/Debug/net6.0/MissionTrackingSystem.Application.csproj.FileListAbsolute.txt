@@ -1,0 +1,15 @@
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\bin\Debug\net6.0\MissionTrackingSystem.Application.deps.json
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\bin\Debug\net6.0\MissionTrackingSystem.Application.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\bin\Debug\net6.0\MissionTrackingSystem.Application.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\bin\Debug\net6.0\MissionTrackingSystem.Domain.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\bin\Debug\net6.0\MissionTrackingSystem.Domain.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.csproj.AssemblyReference.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.AssemblyInfoInputs.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.AssemblyInfo.cs
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.csproj.CopyComplete
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\refint\MissionTrackingSystem.Application.dll
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\MissionTrackingSystem.Application.pdb
+C:\Users\hemre\Desktop\MissionTrackingSystem\MissionTrackingSystem\Core\MissionTrackingSystem.Application\obj\Debug\net6.0\ref\MissionTrackingSystem.Application.dll
